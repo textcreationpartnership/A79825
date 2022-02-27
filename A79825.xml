@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The City of Londons resolution, concerning their loyalty to the King, and their love and affection to the Parliament, in laying down their lives, liberties, and goods for the maintenance of the true Protestant religion. Also the severall propositions which the common councell sent to His Majesty by the Lord Newburgh, one of His Majesties most Honourable privie counsell. Likewise an honourable and worthy speech spoken by the Lord Newburgh to the common councell. With a letter sent from Secretary Nicholas to the lord major, and the report which Mr. Recorder made to the common councell concerning the same, Iune 20. Together with a command from the House of Peers, concerning the stopping of all kinde of ammunition in the northern road. Joh. Brovvn Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79825</idno>
+            <idno type="STC">Wing C4362</idno>
+            <idno type="STC">Thomason E151_21</idno>
+            <idno type="STC">ESTC R12016</idno>
+            <idno type="EEBO-CITATION">99859188</idno>
+            <idno type="PROQUEST">99859188</idno>
+            <idno type="VID">156779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156779)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The City of Londons resolution, concerning their loyalty to the King, and their love and affection to the Parliament, in laying down their lives, liberties, and goods for the maintenance of the true Protestant religion. Also the severall propositions which the common councell sent to His Majesty by the Lord Newburgh, one of His Majesties most Honourable privie counsell. Likewise an honourable and worthy speech spoken by the Lord Newburgh to the common councell. With a letter sent from Secretary Nicholas to the lord major, and the report which Mr. Recorder made to the common councell concerning the same, Iune 20. Together with a command from the House of Peers, concerning the stopping of all kinde of ammunition in the northern road. Joh. Brovvn Cler. Parl.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Iune 22. Printed for I. Tompson and A. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newburgh, James Livingstone, --  Earl of, 1621 or 2-1670 --  Early works to 1800.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156779:1" rendition="simple:additions"/>
+            <p>The City of LONDONS RESOLVTION, CONCERNING Their Loyalty to the King, and their Love and Affection to the Parliament, in laying down their Lives, Liberties, and goods for the maintenance of the true proteſtant Religion.</p>
+            <p>Alſo the ſeverall Propoſitions which the Common Councell ſent to His Majeſty by the Lord Newburgh, one of His Majeſties moſt Honou<g ref="char:EOLhyphen"/>rable privie Counſell.</p>
+            <p>Likewiſe an Honourable and worthy Speech ſpoken by the Lord Newburgh to the Common Councell.</p>
+            <p>With a Letter ſent from Secretary <hi>Nicholas</hi> to the Lord Major, and the Report which Mr. Recor<g ref="char:EOLhyphen"/>der made to the Common Counſell concer<g ref="char:EOLhyphen"/>ning the ſame, <hi>Iune</hi> 20.</p>
+            <p>Together with a Command from the Houſe of Peers, concerning the ſtopping of all kinde of Ammunition in the Northern Road.</p>
+            <p>
+               <hi>JOH. BROVVN Cler. Parl.</hi>
+            </p>
+            <p>
+               <hi>Iune</hi> 22. Printed for <hi>I. Tompſon</hi> and <hi>A. Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156779:2"/>
+            <pb facs="tcp:156779:2"/>
+            <head>The Citiſens of Londons Reſolution, concer<g ref="char:EOLhyphen"/>ning the taking up of Arms.</head>
+            <p>AT this Common Councell, Mr. Re<g ref="char:EOLhyphen"/>corder declared, That by the dire<g ref="char:EOLhyphen"/>ction of the Lord Major, he was to ſignifie to them the cauſe of their Aſſem<g ref="char:EOLhyphen"/>bly, how that his Lordſhip had yeſterday received a Letter from Sir <hi>Edward Ni<g ref="char:EOLhyphen"/>cholas,</hi> one of his Majeſties principall Se<g ref="char:EOLhyphen"/>cretaries, intimating that the Lord Major ſhould call a <hi>Common Councell,</hi> and then he ſhould hear further of his Majeſty: there was alſo preſent in the Counſell Cham<g ref="char:EOLhyphen"/>ber the Lord <hi>Newburgh,</hi> who came to de<g ref="char:EOLhyphen"/>liver his Majeſties Meſſage or Requeſt to t' is Court: And thereupon the L. <hi>New<g ref="char:EOLhyphen"/>burgh</hi> was deſired to come into the Court who declared and ſaid in this manner.</p>
+            <p>
+               <hi>Gentlemen,</hi> His Majeſty out of his good affection in acknowledging of your
+<pb facs="tcp:156779:3"/>great loves lately ſhewed unto His Ma<g ref="char:EOLhyphen"/>jeſty, hath ſent me in a Meſſage unto you aſſuring it to be the ſame contained in a Paper, which he preſented and deſired to be read to this Common Councell, which was accordingly done.</p>
+            <p>The humble deſire of the Court they thought neceſſary to preſent His Majeſty to be graciouſly pleaſed, that all the <hi>De<g ref="char:EOLhyphen"/>linquents</hi> and Cauſers of theſe Tumults, whatſoever they be, being apprehended, may be brought into Examination, and receive condigne puniſhment according to the Law.</p>
+            <p>And theſe things thus agreed upon, were by Direction of this Common-Councell here openly declared and deli<g ref="char:EOLhyphen"/>vered by the mouth of Mr. Recorder, un<g ref="char:EOLhyphen"/>to that Honourable perſon of the Lord <hi>Newburgh,</hi> with deſire that the ſame ſhould be by his Lordſhip accordingly preſented unto his Majeſty, the which he promiſed to perform with truſt.</p>
+            <p>And likewiſe touching the great neg<g ref="char:EOLhyphen"/>lect
+<pb facs="tcp:156779:3"/>in appearance of the Trained Bands of this City to their Colours at the beat of the Drum, eſpecially in theſe times of danger, in contempt of Authority, being a matter of exceeding great conſequence, and not fit to be ſuffered. And thereupon this Common-Councell taking much to heart, that ſuch diſobedience ſhould grow and be found in the Inhabitants of this City, to the great diſreſpect of Magiſtra<g ref="char:EOLhyphen"/>cie and contempt of Government; And that ſuch diſorders and tumultary Aſſem<g ref="char:EOLhyphen"/>blies ſhould be permitted in ſuch a City as this, formerly famous for the good and quiet government therof, hath thought it very expedient and behoveful, for redreſſe and remedy to be had in theſe abuſes, be<g ref="char:EOLhyphen"/>ing not fit to be any longer indured, that every Member of this Common-Councel now aſſembled, ſhall in their ſeveral pre<g ref="char:EOLhyphen"/>cincts, ſpread it abroad, &amp; make it known That if any perſon or perſons, ſhall from henceforth neglect his duty and ſervice to be performed, as aforeſaid, he ſhall receive condign puniſhment, according to Law.</p>
+            <pb facs="tcp:156779:4"/>
+            <p>It is alſo further thought fit, and ſo a<g ref="char:EOLhyphen"/>greed by the Common Counſell, that the Lord Major may ſend out his Precepts in ſuch manner, and to ſuch purpoſe, as his Lordſhip, and his Brethren the Al<g ref="char:EOLhyphen"/>dermen, ſhall think fit for Watch and Ward, raiſing of Arms, or otherwiſe, for the preſervation of this City; to which this Court, and all the Members thereof promiſe all due and cheerfull Obedience.</p>
+            <p>And although the troubles and diſtra<g ref="char:EOLhyphen"/>ctions of this City hath bin many, ſo that they could not reſt in peace, nor quiet; yet they are now reſolved by the help of Almighty God, to aſſiſt both King and Parliament, againſt any forrein invaſion abroad, or inſurrection at home, and though many ſcandalous and ſcurro<g ref="char:EOLhyphen"/>lous ſpeeches hath bin ſpread abroad, and divulged throughout the whole Kingdom, by factious people, to the great diſgrace of the whole City, ſaving that they are Traytors againſt the King, intending to aſſiſt the Parliament, and to take Arms againſt him.</p>
+            <pb facs="tcp:156779:4"/>
+            <p>This is falſe and contrary, for neither the Honourable Court of Parliament nor the City of <hi>London</hi> never were intended to take Arms againſt his Royall Maje<g ref="char:EOLhyphen"/>ſty.</p>
+            <p>For they are reſolved to aſſiſt him with all their might and power, againſt all thoſe that ſhall offer to oppoſe or re<g ref="char:EOLhyphen"/>ſiſt him.</p>
+            <p>Likewiſe this Court entred into fur<g ref="char:EOLhyphen"/>ther conſultation and debate, touching the tumultuous Aſſemblies lately ſpread to the great trouble and affrightment of His Majeſties Subjects, and alſo touching the great neglect of that due reſpect which ought to be given by the Inhabi<g ref="char:EOLhyphen"/>tants of this City, to the ſeverall precepts lately iſſued out by the Lord Major, fora continuall Watch and Ward day and night, for prevention and ſuppreſſion of ſuch tumults and diſtempers.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:156779:5"/>
+            <head>Die Sabbathi, 11. Junii, 1642.</head>
+            <p>
+               <hi>IT is this day ordered by the Lords in Par<g ref="char:EOLhyphen"/>liament aſſembled, That a ſtrict ſearch and Examination he made by the Juſtices of peace Maior, Bayliffs, Conſtables, and other his Ma<g ref="char:EOLhyphen"/>jeſties Officers, inhabiting, or neer adjoyning to all the Northerne Roads, for the ſtopping and ſtaying of all Armes, Ammunition, Pow<g ref="char:EOLhyphen"/>der, Light-horſes, or horſes for ſervice in the Warres, and great Saddles that are, or ſhal be carryed towards the North parts of</hi> England, <hi>but by the privity and direction of one, or both Houſes of Parliament; And that the ſaid Of<g ref="char:EOLhyphen"/>ficers ſhall ſtay them accordingly, and ſpeedily give information thereof unto one of the Hou<g ref="char:EOLhyphen"/>ſes of Parliament.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii,</hi> 15. <hi>Iun.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>Ordered by the Lords in Parliament, That this Order ſhall be printed and publiſhed.</p>
+            <closer>
+               <signed>Io. Browne, Cler. Parl.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
